@@ -1,0 +1,1 @@
+name := "scala-headquarter-core"
