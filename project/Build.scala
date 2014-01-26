@@ -14,7 +14,7 @@ object ScalaHeadquarterBuild extends Build {
   lazy val scalaHeadquarterCore = Project(id = "scala-headquarter-core", base = file("scala-headquarter-core"))
 
   def commonSettings = Defaults.defaultSettings ++ Seq(
-  	sbtVersion in GlobalScope := "0.13",
+  	sbtVersion in GlobalScope := "0.13.1",
   	scalaVersion := "2.10.3"
   )
 }
