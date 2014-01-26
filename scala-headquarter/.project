@@ -1,3 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-  <name>scala-headquarter</name>
+	<name>scala-headquarter</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<filteredResources>
+		<filter>
+			<id>1390740686433</id>
+			<name></name>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-true-false-scala-headquarter-core</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
 </projectDescription>
